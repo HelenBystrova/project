@@ -1,4 +1,4 @@
-
+'use strict';
 /*
 var lefdBorderWidth = 1;
 let second = 2;
